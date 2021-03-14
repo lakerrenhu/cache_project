@@ -1,0 +1,2 @@
+# cache_project
+#two level of cache (L1 and L2) are considered. The designed cache structure can implement three replacement policies, including least recently used (LRU), Pseudo-LRU (PLRU) and Optimal policies (OPT). The relevant experiments of simulating show that the cache size, set-associative, replacement policy and inclusion-property may have great effect on the miss rate and average access time (AAT).
